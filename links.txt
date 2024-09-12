@@ -1,3 +1,1 @@
-Example link 1: https://example.com/resource1
-Example link 2: https://example.com/resource2
-Example link 3: https://example.com/resource3
+Some text
